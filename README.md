@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Mukherjee</h1>
 <h3 align="center">Full-stack by craft. Agentic AI by curiosity. Statistics by training. Shipping MERN apps and LangGraph agents, now learning PyTorch .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivzm&label=Profile%20views&color=0e75b6&style=flat" alt="shivzm" /> </p>
+- Currently working on [Alpha Admin, SMOC2-Transcriptome Classifier](https://github.com/Shivzm/Alpha-Intelligence---Admin , https://github.com/Shivzm/SMOC2-Transcriptome-Classifier)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivzm" alt="shivzm" /></a> </p>
+- Learning **PyTorch, System Design, AI and Cloud**
 
-- 🔭 I’m currently working on [Alpha Admin, SMOC2-Transcriptome Classifier](https://github.com/Shivzm/Alpha-Intelligence---Admin , https://github.com/Shivzm/SMOC2-Transcriptome-Classifier)
+- Ask me about **AI & ML, System Design, Software Development, Cloud, GenAI, Agentic AI, LLMs, RAG, GraphDB, VectorDB, LLM Evaluation, LLMOps, MLOps**
 
-- 🌱 I’m currently learning **PyTorch, System Design, AI and Cloud**
-
-- 💬 Ask me about **AI & ML, System Design, Software Development, Cloud, GenAI, Agentic AI, LLMs, RAG, GraphDB, VectorDB, LLM Evaluation, LLMOps, MLOps**
-
-- 📫 How to reach me **shibhammukherjee6@gmail.com**
+- Reach out to me at **shibhammukherjee6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
